@@ -31,8 +31,10 @@ By following these steps, you ensure that your Spotipy library is correctly set 
 ## Running the Project on Colab
 When running the project on Google Colab, ensure you have a folder containing the following files:
 
-data.csv
+data.zip (to be unzipped for the uploading in the Colab environment)
+
 data_by_genres.csv
+
 data_by_year.csv
 
 Upload this folder to your Colab environment before executing the notebook. This data is essential for the music recommendation system to function correctly.
