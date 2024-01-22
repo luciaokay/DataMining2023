@@ -27,3 +27,11 @@ Click on "Create an App" and fill in the required information to register your a
 After creating the app, you will be provided with a Client ID and secret key. Save these as they will be needed to authenticate your Spotipy requests.
 
 By following these steps, you ensure that your Spotipy library is correctly set up and authenticated to access the Spotify API for seamless music recommendation.
+
+## Running the Project on Colab
+When running the project on Google Colab, ensure you have a folder containing the following files:
+
+data.csv
+data_by_genres.csv
+data_by_year.csv
+Upload this folder to your Colab environment before executing the notebook. This data is essential for the music recommendation system to function correctly.
