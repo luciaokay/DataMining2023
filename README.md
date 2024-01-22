@@ -1,5 +1,4 @@
 # Music Recommendation with Spotipy
-Music Recommendation Project using Spotipy. 
 
 ![SPOTY](https://github.com/luciaokay/DataMining2023/assets/151770842/c28c86dd-0b2c-49db-b69a-0ef56ecd0c16)
 
