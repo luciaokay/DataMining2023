@@ -37,4 +37,5 @@ When running the project on Google Colab, ensure you have a folder containing th
 
 • data_by_year.csv
 
-Upload this folder to your Colab environment before executing the notebook. This data is essential for the music recommendation system to function correctly.
+Upload this folder to your Colab environment before executing the notebook. In the code, we called the folder 'Spotify_Dataset'. 
+This data is essential for the music recommendation system to function correctly.
