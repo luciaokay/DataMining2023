@@ -1,11 +1,1 @@
-Acknowledgments
-The authors of the project would like to express gratitude to Vatsal Mavani, the original author of the Python music recommendation code. His contribution has been invaluable, and our work builds upon his original project available on Kaggle.
 
-Regarding our team's contribution to the project, here is how we proceeded in developing the pipeline:
-
-V.B. conducted extensive research over the Internet.
-V.B. explored the project steps using generative AI platforms such as ChatGPT.
-L.T. handled code debugging using Visual Studio Code and ChatGPT.
-L.T. and L.C. wrapped up the code.
-L.C. wrote the documentation.
-All team members collaborated to upload the final version of the project to GitHub. Special thanks to Vatsal Mavani for his inspiration and initial contribution.
