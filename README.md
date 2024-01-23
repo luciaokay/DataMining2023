@@ -37,13 +37,7 @@ Client ID and secret key for Spotify API Access
 Spotipy is a Python client for the Spotify Web API, facilitating data fetching and catalog querying. 
 Follow these steps to set up your Spotify API access:
 
-• Install Spotipy using the following command:
-
-bash
-Copy code
-!pip install spotipy
-
-• Create a Spotify Developer's account and log in.
+• Create a [Spotify Developer]'s account and log in. (https://developer.spotify.com/)
 
 • Navigate to the Spotify Developer Dashboard.
 
@@ -52,6 +46,8 @@ Copy code
 After creating the app, you will be provided with a Client ID and secret key. Save these as they will be needed to authenticate your Spotipy requests.
 
 By following these steps, you ensure that your Spotipy library is correctly set up and authenticated to access the Spotify API for seamless music recommendation.
+
+In the Music_Recommendation.ipynb file, Spotify credentials have been pre-inserted with some example credentials that are functional for demonstration purposes. Feel free to replace them with your own credentials for actual usage.
 
 ## Running the Project on Colab
 When running the project on Google Colab, ensure you have a folder containing the following files:
