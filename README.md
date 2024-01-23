@@ -19,7 +19,7 @@ seaborn;
 plotly.express; 
 matplotlib.pyplot; 
 
-'+' Only specific Functions from:
+_+_ Only specific Functions from:
 
 sklearn.cluster; 
 sklearn.preprocessing; 
