@@ -52,7 +52,7 @@ In the Music_Recommendation.ipynb file, Spotify credentials have been pre-insert
 ## Running the Project on Colab
 When running the project on Google Colab, ensure you have a folder containing the following files:
 
-• data.zip (to be unzipped for the uploading in the Colab environment)
+• data.zip (to be unzipped for the uploading in the Colab environment) or data.csv (If you prefer, you can download the csv from Google Drive [here](https://drive.google.com/drive/folders/1D2pCa-uhnMvLbTpLH2Rx-9ZaG6lVtVgP?usp=sharing). Once downloaded, you can upload it to your Colab environment)
 
 • data_by_genres.csv
 
