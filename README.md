@@ -10,7 +10,7 @@ However, if your workflow is more comfortable with Visual Studio Code, you can s
 
 ## Requirements
 
-• Python Libraries:
+• _Python Libraries_:
 
 spotipy; 
 numpy; 
@@ -19,7 +19,7 @@ seaborn;
 plotly.express; 
 matplotlib.pyplot; 
 
-"+" Only specific Functions from:
+Only specific Functions from:
 
 sklearn.cluster; 
 sklearn.preprocessing; 
@@ -29,7 +29,7 @@ sklearn.decomposition;
 sklearn.metrics; 
 scipy.spatial.distance; 
 
-• Credentials:
+• _Credentials_:
 
 Client ID and secret key for Spotify API Access
 
