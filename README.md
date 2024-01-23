@@ -10,7 +10,7 @@ However, if your workflow is more comfortable with Visual Studio Code, you can s
 
 ## Requirements
 
-Python Libraries:
+• Python Libraries:
 
 spotipy
 
@@ -24,16 +24,16 @@ plotly.express
 
 matplotlib.pyplot
 
-Only specific Functions from:
-sklearn.cluster;
-sklearn.preprocessing;
-sklearn.pipeline;
-sklearn.manifold;
+• Only specific Functions from:
+sklearn.cluster; 
+sklearn.preprocessing; 
+sklearn.pipeline; 
+sklearn.manifold; 
 sklearn.decomposition; 
-sklearn.metrics;
-scipy.spatial.distance;
+sklearn.metrics; 
+scipy.spatial.distance; 
 
-Credentials:
+• Credentials:
 
 Client ID and secret key for Spotify API Access
 
