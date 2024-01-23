@@ -37,7 +37,7 @@ Client ID and secret key for Spotify API Access
 Spotipy is a Python client for the Spotify Web API, facilitating data fetching and catalog querying. 
 Follow these steps to set up your Spotify API access:
 
-• Create a [Spotify Developer]'s account and log in. (https://developer.spotify.com/)
+• Create a [Spotify Developer](https://developer.spotify.com/)'s account and log in. 
 
 • Navigate to the Spotify Developer Dashboard.
 
