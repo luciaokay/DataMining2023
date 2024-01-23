@@ -1,6 +1,6 @@
 # Music Recommendation with Spotipy
 
-![image_processing20210706-2486-1m3tb3g](https://github.com/luciaokay/DataMining2023/assets/151770842/792e0b56-f6e8-41d3-9486-75b0a781e883)
+![image_processing20210706-2486-1m3tb3g](https://github.com/luciaokay/DataMining2023/assets/151770842/792e0b56-f6e8-41d3-9486-75b0a781e883) {:height="50%" width="50%"}
 
 ## Overview
 This project centers around music recommendation utilizing Spotipy, a Python library for the Spotify API. It offers a seamless experience for users to discover new music based on their preferences.
