@@ -1,12 +1,31 @@
 # Music Recommendation with Spotipy
 
-![SPOTY](https://github.com/luciaokay/DataMining2023/assets/151770842/c28c86dd-0b2c-49db-b69a-0ef56ecd0c16)
+![image_processing20210706-2486-1m3tb3g](https://github.com/luciaokay/DataMining2023/assets/151770842/792e0b56-f6e8-41d3-9486-75b0a781e883)
 
 ## Overview
 This project centers around music recommendation utilizing Spotipy, a Python library for the Spotify API. It offers a seamless experience for users to discover new music based on their preferences.
 
 When working on this project, we recommend using Google Colab for different reasons. 
 However, if your workflow is more comfortable with Visual Studio Code, you can still adapt the provided code to your preferred environment.
+
+## Requirements
+
+Python Libraries required:
+spotipy
+numpy
+pandas
+seaborn
+plotly.express
+matplotlib.pyplot
+
+Only specific Functions from:
+sklearn.cluster
+sklearn.preprocessing
+sklearn.pipeline
+sklearn.manifold
+sklearn.decomposition 
+sklearn.metrics
+scipy.spatial.distance
 
 ## Setting Up Spotify API Access
 Spotipy is a Python client for the Spotify Web API, facilitating data fetching and catalog querying. 
