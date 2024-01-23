@@ -12,17 +12,12 @@ However, if your workflow is more comfortable with Visual Studio Code, you can s
 
 • Python Libraries:
 
-spotipy
-
-numpy
-
-pandas
-
-seaborn
-
-plotly.express
-
-matplotlib.pyplot
+spotipy; 
+numpy; 
+pandas; 
+seaborn; 
+plotly.express; 
+matplotlib.pyplot; 
 
 • Only specific Functions from:
 
