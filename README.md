@@ -8,6 +8,18 @@ This project centers around music recommendation utilizing Spotipy, a Python lib
 When working on this project, we recommend using Google Colab for different reasons. 
 However, if your workflow is more comfortable with Visual Studio Code, you can still adapt the provided code to your preferred environment.
 
+## Running the Project on Colab
+When running the project on Google Colab, ensure you have a folder containing the following files:
+
+• data.zip (to be unzipped for the uploading in the Colab environment) or data.csv (If you prefer, you can download the csv from Google Drive [here](https://drive.google.com/drive/folders/1D2pCa-uhnMvLbTpLH2Rx-9ZaG6lVtVgP?usp=sharing). Once downloaded, you can upload it to your Colab environment)
+
+• data_by_genres.csv
+
+• data_by_year.csv
+
+Upload this folder to your Colab environment before executing the notebook. In the code, we called the folder 'Spotify_Dataset'. 
+This data is essential for the music recommendation system to function correctly.
+
 ## Requirements
 
 • _Python Libraries_:
@@ -48,18 +60,6 @@ After creating the app, you will be provided with a Client ID and secret key. Sa
 By following these steps, you ensure that your Spotipy library is correctly set up and authenticated to access the Spotify API for seamless music recommendation.
 
 In the Music_Recommendation.ipynb file, Spotify credentials have been pre-inserted with some example credentials that are functional for demonstration purposes. Feel free to replace them with your own credentials for actual usage.
-
-## Running the Project on Colab
-When running the project on Google Colab, ensure you have a folder containing the following files:
-
-• data.zip (to be unzipped for the uploading in the Colab environment) or data.csv (If you prefer, you can download the csv from Google Drive [here](https://drive.google.com/drive/folders/1D2pCa-uhnMvLbTpLH2Rx-9ZaG6lVtVgP?usp=sharing). Once downloaded, you can upload it to your Colab environment)
-
-• data_by_genres.csv
-
-• data_by_year.csv
-
-Upload this folder to your Colab environment before executing the notebook. In the code, we called the folder 'Spotify_Dataset'. 
-This data is essential for the music recommendation system to function correctly.
 
 ## Next Steps:
 
