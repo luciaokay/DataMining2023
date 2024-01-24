@@ -64,4 +64,5 @@ This data is essential for the music recommendation system to function correctly
 ## Next Steps:
 
 • Curating the UX and eventually UI by integrating the classificator to the Spotify Player and Application 
+
 • Expanding the data.cvs to access broader possibilities in the generation of the output
