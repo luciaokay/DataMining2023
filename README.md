@@ -60,3 +60,8 @@ When running the project on Google Colab, ensure you have a folder containing th
 
 Upload this folder to your Colab environment before executing the notebook. In the code, we called the folder 'Spotify_Dataset'. 
 This data is essential for the music recommendation system to function correctly.
+
+## Next Steps:
+
+• Curating the UX and eventually UI by integrating the classificator to the Spotify Player and Application 
+• Expanding the data.cvs to access broader possibilities in the generation of the output
