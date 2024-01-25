@@ -46,46 +46,27 @@ scipy.spatial.distance;
 
 Client ID and secret key for Spotify API Access
 
-## Features
+## Audio Features from Spotify
 
-
-valence: Measure of musical positivity, with higher values ​​indicating happier or more positive music.
-
-year: The year the track was released or recorded.
-
-acousticness: Measurement of how acoustic a track is.
-
-artists: List of artists involved in the track.
-
-danceability: Measurement of how suitable a track is for dancing, based on various factors such as tempo, rhythm stability, beat strength and general regularity.
-
-duration_ms: Track duration in milliseconds.
-
-energy: Measurement of intensity. Generally, energetic tracks are fast and loud.
-
-explicit: Indicates whether the track has explicit lyrics (0 = no, 1 = yes).
-
-id: Unique identifier of the track.
-
-instrumentalness: Measures the presence of vocal parts. Higher values ​​indicate fewer voices (more instrumental).
-
-key: The musical key of the track.
-
-liveness: Detects the presence of an audience in the recording. Higher values ​​indicate a greater likelihood that the track was recorded live.
-
-loudness: The overall volume level of the track in decibels.
-
-mode: Musical mode of the track (Major = 1, Minor = 0).
-
-name: The title of the track.
-
-popularity: Measurement of the popularity of the track.
-
-release_date: Release date of the track.
-
-speechiness: Detects the presence of spoken words. Higher values ​​indicate a greater presence of spoken words.
-
-tempo: The tempo of the track in beats per minute (BPM).
+valence
+year
+acousticness
+artists
+danceability
+duration_ms
+energy
+explicit
+id
+instrumentalness
+key
+liveness
+loudness
+mode
+name
+popularity
+release_date
+speechiness
+tempo
 
 Find them [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
 
