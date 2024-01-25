@@ -87,7 +87,7 @@ speechiness: Detects the presence of spoken words. Higher values ​​indicate 
 
 tempo: The tempo of the track in beats per minute (BPM).
 
-Find them [here]([https://drive.google.com/drive/folders/1D2pCa-uhnMvLbTpLH2Rx-9ZaG6lVtVgP?usp=sharing](https://developer.spotify.com/documentation/web-api/reference/get-audio-features))!
+Find them [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
 
 
 ## Setting Up Spotify API Access
