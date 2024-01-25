@@ -70,6 +70,8 @@ tempo;
 
 Find them explained in detail [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
 
+N.B. You may need to generate developer credentials and authenticate yourself to access this page
+
 
 ## Setting Up Spotify API Access
 Spotipy is a Python client for the Spotify Web API, facilitating data fetching and catalog querying. 
