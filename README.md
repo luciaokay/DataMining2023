@@ -46,29 +46,29 @@ scipy.spatial.distance;
 
 Client ID and secret key for Spotify API Access
 
-## Audio Features from Spotify
+## Audio Features from Spotify for Developers
 
-valence
-year
-acousticness
-artists
-danceability
-duration_ms
-energy
-explicit
-id
-instrumentalness
-key
-liveness
-loudness
-mode
-name
-popularity
-release_date
-speechiness
-tempo
+valence;
+year;
+acousticness;
+artists;
+danceability;
+duration_ms;
+energy;
+explicit;
+id;
+instrumentalness;
+key;
+liveness;
+loudness;
+mode;
+name;
+popularity;
+release_date;
+speechiness;
+tempo;
 
-Find them explained in more detail [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
+Find them explained in detail [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
 
 
 ## Setting Up Spotify API Access
