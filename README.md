@@ -68,7 +68,7 @@ release_date
 speechiness
 tempo
 
-Find them [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
+Find them explained in more detail [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features) !
 
 
 ## Setting Up Spotify API Access
